@@ -36,7 +36,29 @@
 
     <main>
       <div id="mc" class="container-fluid row">
-        <div id="city-form" class="col-md-3 col-sm-12 border">City Search</div>
+        <div id="city-form" class="col-md-3 col-sm-12 border">
+          <h3 class="text-center">City Search</h3>
+          <form>
+            <div class="form-row">
+              <div class="form-group">
+                <label for="inputCity">City</label>
+                <input type="text" class="form-control" id="inputCity">
+              </div>
+              <br>
+              <div class="form-group col-md-6">
+                <label for="inputState">State</label>
+                <select id="inputState" class="form-control">
+                  <option selected>Choose...</option>
+                  <option>AL - Alabama</option>
+                  <option>AK - Alaska</option>
+                </select>
+              </div>
+            </div>
+            <br>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+          <br>
+        </div>
         <div id="weather" class="col-md-9 col-sm-12 border">Weather</div>
       </div>
     </main>
