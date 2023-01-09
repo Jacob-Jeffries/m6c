@@ -41,6 +41,11 @@ main{
 	margin-right: 5%;
 }
 
+.border{
+	border: solid 2px var(--green);
+}
+
+
 @media screen and (min-width: 768px){
 	body{
 		font-size: 14px;
