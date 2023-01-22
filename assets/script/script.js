@@ -1,3 +1,24 @@
+let city = document.querySelector('#inputCity');
+let state = document.querySelector('#inputState');
+let submit = document.querySelector('#city_search');
+
+//Load city JSON
+let cities = {}
+fetch('./data/UScities.json')
+.then(function(response){
+  return response.json();
+})
+.then(function(data) {
+  cities = data;
+});
+
+submit.addEventListener("click", function(event) {
+  event.preventDefault();
+  console.log(city)
+  console.log(state)
+});
+
+
 function test(){
   fetch('./data/forcast.json')
   .then(function(response) {
