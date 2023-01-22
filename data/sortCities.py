@@ -71,3 +71,16 @@ for b in sorted_cities:
 for d in sorted_cities:
   print(d, len(sorted_cities[d]))
   print(sorted_cities[d][0])
+
+for e in sorted_cities:
+  sorted_cities[e].sort(key=lambda x: x['name'])
+
+for d in sorted_cities:
+  print(d, len(sorted_cities[d]))
+  print(sorted_cities[d][0])
+
+json_object = json.dumps(sorted_cities, indent=2)
+
+json_file = open("UScities.json", "w")
+json_file.write(json_object)
+json_file.close()
