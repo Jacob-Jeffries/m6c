@@ -2,6 +2,8 @@ import json
 
 us_cities = []
 
+us_states = ['AL','AK','AZ','AR','CA','CO','CT','DC','DE',]
+
 #Golly I forgot I was using python and the pwd is different!
 with open("/mnt/d/bootcamp/lessons/m6c/data/cityList.json") as data:
   cityList = json.load(data)
