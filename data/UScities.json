@@ -182709,6 +182709,5370 @@
       }
     }
   ],
+  "VT": [
+    {
+      "id": 5233146,
+      "name": "Addison County",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.116226,
+        "lat": 44.05006
+      }
+    },
+    {
+      "id": 5233315,
+      "name": "Arlington",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.153999,
+        "lat": 43.074799
+      }
+    },
+    {
+      "id": 5233500,
+      "name": "Barre",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.502052,
+        "lat": 44.19701
+      }
+    },
+    {
+      "id": 5233700,
+      "name": "Beebe Plain",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.140663,
+        "lat": 45.005322
+      }
+    },
+    {
+      "id": 5233738,
+      "name": "Bellows Falls",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.443977,
+        "lat": 43.133411
+      }
+    },
+    {
+      "id": 5233742,
+      "name": "Bennington",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.19677,
+        "lat": 42.878132
+      }
+    },
+    {
+      "id": 5233748,
+      "name": "Bennington County",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.099548,
+        "lat": 43.033409
+      }
+    },
+    {
+      "id": 5234041,
+      "name": "Bowman Corners",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.057083,
+        "lat": 44.573662
+      }
+    },
+    {
+      "id": 5234101,
+      "name": "Brandon",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.087608,
+        "lat": 43.798119
+      }
+    },
+    {
+      "id": 5234141,
+      "name": "Brattleboro",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.557869,
+        "lat": 42.850922
+      }
+    },
+    {
+      "id": 5234136,
+      "name": "Bread Loaf",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.992607,
+        "lat": 43.9534
+      }
+    },
+    {
+      "id": 5234158,
+      "name": "Bridgewater Corners",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.65593,
+        "lat": 43.588402
+      }
+    },
+    {
+      "id": 5234183,
+      "name": "Bristol",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.07901,
+        "lat": 44.133389
+      }
+    },
+    {
+      "id": 5234282,
+      "name": "Brownsville",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.470917,
+        "lat": 43.468681
+      }
+    },
+    {
+      "id": 5234372,
+      "name": "Burlington",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.212067,
+        "lat": 44.47588
+      }
+    },
+    {
+      "id": 5281166,
+      "name": "Castleton",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.179832,
+        "lat": 43.610619
+      }
+    },
+    {
+      "id": 5234814,
+      "name": "Chelsea",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.447601,
+        "lat": 43.989792
+      }
+    },
+    {
+      "id": 5234827,
+      "name": "Chester",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.595093,
+        "lat": 43.262852
+      }
+    },
+    {
+      "id": 5234861,
+      "name": "Chittenden County",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.049568,
+        "lat": 44.45005
+      }
+    },
+    {
+      "id": 5235024,
+      "name": "Colchester",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.147911,
+        "lat": 44.543941
+      }
+    },
+    {
+      "id": 5235519,
+      "name": "Dover",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.803993,
+        "lat": 42.943691
+      }
+    },
+    {
+      "id": 5235663,
+      "name": "East Brookfield",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.571487,
+        "lat": 44.027561
+      }
+    },
+    {
+      "id": 5235681,
+      "name": "East Clarendon",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.938988,
+        "lat": 43.524792
+      }
+    },
+    {
+      "id": 5235775,
+      "name": "East Richford",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.58596,
+        "lat": 45.011162
+      }
+    },
+    {
+      "id": 5235919,
+      "name": "Enosburg Falls",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.806519,
+        "lat": 44.90699
+      }
+    },
+    {
+      "id": 5235952,
+      "name": "Essex Junction",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.110962,
+        "lat": 44.490608
+      }
+    },
+    {
+      "id": 5236019,
+      "name": "Fair Haven",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.265671,
+        "lat": 43.594791
+      }
+    },
+    {
+      "id": 5236027,
+      "name": "Fairlee",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.143417,
+        "lat": 43.90757
+      }
+    },
+    {
+      "id": 5236279,
+      "name": "Franklin County",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.866249,
+        "lat": 44.850052
+      }
+    },
+    {
+      "id": 5236698,
+      "name": "Guildhall",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -71.559807,
+        "lat": 44.56506
+      }
+    },
+    {
+      "id": 5236818,
+      "name": "Hardwick",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.368156,
+        "lat": 44.50478
+      }
+    },
+    {
+      "id": 5237056,
+      "name": "Hinesburg",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.11068,
+        "lat": 44.32922
+      }
+    },
+    {
+      "id": 5237276,
+      "name": "Hyde Park",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.616508,
+        "lat": 44.593941
+      }
+    },
+    {
+      "id": 5237445,
+      "name": "Jay",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.43705,
+        "lat": 44.947552
+      }
+    },
+    {
+      "id": 5237476,
+      "name": "Jericho",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.997627,
+        "lat": 44.503941
+      }
+    },
+    {
+      "id": 5237538,
+      "name": "Johnson",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.680397,
+        "lat": 44.635609
+      }
+    },
+    {
+      "id": 5238190,
+      "name": "Lyndon",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.010933,
+        "lat": 44.514221
+      }
+    },
+    {
+      "id": 5238203,
+      "name": "Lyndonville",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.003151,
+        "lat": 44.533669
+      }
+    },
+    {
+      "id": 5238321,
+      "name": "Manchester Center",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.057053,
+        "lat": 43.177021
+      }
+    },
+    {
+      "id": 5238499,
+      "name": "Middlebury (village)",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.167343,
+        "lat": 44.015339
+      }
+    },
+    {
+      "id": 5238609,
+      "name": "Milton",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.110413,
+        "lat": 44.639771
+      }
+    },
+    {
+      "id": 5238685,
+      "name": "Montpelier",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.575394,
+        "lat": 44.260059
+      }
+    },
+    {
+      "id": 5238755,
+      "name": "Morristown",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.623734,
+        "lat": 44.55727
+      }
+    },
+    {
+      "id": 5238763,
+      "name": "Morrisville",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.59845,
+        "lat": 44.561722
+      }
+    },
+    {
+      "id": 5239071,
+      "name": "Newfane",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.65593,
+        "lat": 42.985641
+      }
+    },
+    {
+      "id": 5239058,
+      "name": "Newport",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.205101,
+        "lat": 44.93644
+      }
+    },
+    {
+      "id": 5239101,
+      "name": "North Bennington",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.242607,
+        "lat": 42.930359
+      }
+    },
+    {
+      "id": 5239188,
+      "name": "North Hero",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.289299,
+        "lat": 44.817539
+      }
+    },
+    {
+      "id": 5239235,
+      "name": "North Rupert",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.14566,
+        "lat": 43.299519
+      }
+    },
+    {
+      "id": 5239281,
+      "name": "Northfield",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.656502,
+        "lat": 44.151169
+      }
+    },
+    {
+      "id": 5239504,
+      "name": "Orange County",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.449539,
+        "lat": 44.000622
+      }
+    },
+    {
+      "id": 5239520,
+      "name": "Orleans County",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.23288,
+        "lat": 44.816711
+      }
+    },
+    {
+      "id": 5239982,
+      "name": "Poultney",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.236221,
+        "lat": 43.51701
+      }
+    },
+    {
+      "id": 5240140,
+      "name": "Randolph",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.665939,
+        "lat": 43.925072
+      }
+    },
+    {
+      "id": 5240267,
+      "name": "Richford",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.671242,
+        "lat": 44.99699
+      }
+    },
+    {
+      "id": 5240399,
+      "name": "Rockingham",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.488983,
+        "lat": 43.18758
+      }
+    },
+    {
+      "id": 5240509,
+      "name": "Rutland",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.97261,
+        "lat": 43.610619
+      }
+    },
+    {
+      "id": 5240516,
+      "name": "Rutland County",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.01622,
+        "lat": 43.61673
+      }
+    },
+    {
+      "id": 5240569,
+      "name": "Saint Albans",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.083191,
+        "lat": 44.810879
+      }
+    },
+    {
+      "id": 5240656,
+      "name": "Saint Johnsbury",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.015091,
+        "lat": 44.41922
+      }
+    },
+    {
+      "id": 5241035,
+      "name": "Sheldon Junction",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.947632,
+        "lat": 44.901711
+      }
+    },
+    {
+      "id": 5241132,
+      "name": "Simpsonville",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.649818,
+        "lat": 43.072578
+      }
+    },
+    {
+      "id": 5241223,
+      "name": "South Barre",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.505661,
+        "lat": 44.17701
+      }
+    },
+    {
+      "id": 5241248,
+      "name": "South Burlington",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.170959,
+        "lat": 44.466991
+      }
+    },
+    {
+      "id": 5241423,
+      "name": "Springfield",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.482307,
+        "lat": 43.298409
+      }
+    },
+    {
+      "id": 6424355,
+      "name": "St Johnsbury",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.015121,
+        "lat": 44.425259
+      }
+    },
+    {
+      "id": 5241643,
+      "name": "Stratton",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.910927,
+        "lat": 43.042858
+      }
+    },
+    {
+      "id": 5241770,
+      "name": "Swanton",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.124298,
+        "lat": 44.918098
+      }
+    },
+    {
+      "id": 5242022,
+      "name": "Tolman Corner",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.30677,
+        "lat": 44.567551
+      }
+    },
+    {
+      "id": 5242224,
+      "name": "Vergennes",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.254013,
+        "lat": 44.167278
+      }
+    },
+    {
+      "id": 5242283,
+      "name": "Vermont",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.749832,
+        "lat": 44.00034
+      }
+    },
+    {
+      "id": 5242428,
+      "name": "Waitsfield",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.824837,
+        "lat": 44.19006
+      }
+    },
+    {
+      "id": 5242529,
+      "name": "Washington County",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.616219,
+        "lat": 44.11673
+      }
+    },
+    {
+      "id": 5242565,
+      "name": "Waterbury",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.756233,
+        "lat": 44.33783
+      }
+    },
+    {
+      "id": 5242657,
+      "name": "West Brattleboro",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.603149,
+        "lat": 42.855919
+      }
+    },
+    {
+      "id": 5242764,
+      "name": "West Rutland",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.045113,
+        "lat": 43.593121
+      }
+    },
+    {
+      "id": 5242810,
+      "name": "Westminster",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.458702,
+        "lat": 43.06786
+      }
+    },
+    {
+      "id": 5242889,
+      "name": "White River Junction",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.31926,
+        "lat": 43.64896
+      }
+    },
+    {
+      "id": 5242952,
+      "name": "Wilder",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.308701,
+        "lat": 43.672852
+      }
+    },
+    {
+      "id": 5242994,
+      "name": "Williamstown",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.541489,
+        "lat": 44.121731
+      }
+    },
+    {
+      "id": 5243008,
+      "name": "Williston",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.068176,
+        "lat": 44.43755
+      }
+    },
+    {
+      "id": 5243051,
+      "name": "Windham County",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.732872,
+        "lat": 42.98341
+      }
+    },
+    {
+      "id": 5243059,
+      "name": "Windsor",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.384811,
+        "lat": 43.48035
+      }
+    },
+    {
+      "id": 5243062,
+      "name": "Windsor County",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.566208,
+        "lat": 43.550072
+      }
+    },
+    {
+      "id": 5243081,
+      "name": "Winooski",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -73.185677,
+        "lat": 44.49144
+      }
+    },
+    {
+      "id": 5243145,
+      "name": "Woodstock",
+      "state": "VT",
+      "country": "US",
+      "coord": {
+        "lon": -72.518433,
+        "lat": 43.624241
+      }
+    }
+  ],
+  "WA": [
+    {
+      "id": 5785243,
+      "name": "Aberdeen",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.81572,
+        "lat": 46.975368
+      }
+    },
+    {
+      "id": 5785359,
+      "name": "Ahtanum",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.622009,
+        "lat": 46.55957
+      }
+    },
+    {
+      "id": 5785378,
+      "name": "Airway Heights",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.593269,
+        "lat": 47.644611
+      }
+    },
+    {
+      "id": 5785450,
+      "name": "Alderton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.229279,
+        "lat": 47.169552
+      }
+    },
+    {
+      "id": 5785453,
+      "name": "Alderwood Manor",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.282066,
+        "lat": 47.822041
+      }
+    },
+    {
+      "id": 5785484,
+      "name": "Algona",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.25206,
+        "lat": 47.278992
+      }
+    },
+    {
+      "id": 5785552,
+      "name": "Allyn",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.827637,
+        "lat": 47.385651
+      }
+    },
+    {
+      "id": 5785614,
+      "name": "Amboy",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.446487,
+        "lat": 45.91011
+      }
+    },
+    {
+      "id": 5785639,
+      "name": "American River",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.161751,
+        "lat": 46.975948
+      }
+    },
+    {
+      "id": 5785640,
+      "name": "Ames Lake",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.966232,
+        "lat": 47.632881
+      }
+    },
+    {
+      "id": 5785657,
+      "name": "Anacortes",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.612671,
+        "lat": 48.5126
+      }
+    },
+    {
+      "id": 5785868,
+      "name": "Arlington",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.125137,
+        "lat": 48.198711
+      }
+    },
+    {
+      "id": 5785858,
+      "name": "Arlington Heights",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.06208,
+        "lat": 48.202049
+      }
+    },
+    {
+      "id": 5785871,
+      "name": "Armstrong",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.225449,
+        "lat": 46.760159
+      }
+    },
+    {
+      "id": 5785909,
+      "name": "Artondale",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.620689,
+        "lat": 47.299541
+      }
+    },
+    {
+      "id": 5785933,
+      "name": "Asotin",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.04821,
+        "lat": 46.339329
+      }
+    },
+    {
+      "id": 5785965,
+      "name": "Auburn",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.228447,
+        "lat": 47.30732
+      }
+    },
+    {
+      "id": 7260833,
+      "name": "Ault Field",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.674408,
+        "lat": 48.33812
+      }
+    },
+    {
+      "id": 5816320,
+      "name": "Bainbridge Island",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.52124,
+        "lat": 47.626209
+      }
+    },
+    {
+      "id": 7260845,
+      "name": "Bangor Trident Base",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.714462,
+        "lat": 47.72274
+      }
+    },
+    {
+      "id": 5786322,
+      "name": "Barberton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.598991,
+        "lat": 45.693169
+      }
+    },
+    {
+      "id": 5786429,
+      "name": "Basin City",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.152229,
+        "lat": 46.594028
+      }
+    },
+    {
+      "id": 5786485,
+      "name": "Battle Ground",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.533432,
+        "lat": 45.780949
+      }
+    },
+    {
+      "id": 5786848,
+      "name": "Belfair",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.82737,
+        "lat": 47.450649
+      }
+    },
+    {
+      "id": 5786852,
+      "name": "Belfast",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.335159,
+        "lat": 48.55455
+      }
+    },
+    {
+      "id": 5786882,
+      "name": "Bellevue",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.200684,
+        "lat": 47.610378
+      }
+    },
+    {
+      "id": 5786899,
+      "name": "Bellingham",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.48822,
+        "lat": 48.759548
+      }
+    },
+    {
+      "id": 5786990,
+      "name": "Benton City",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.487801,
+        "lat": 46.263191
+      }
+    },
+    {
+      "id": 5786991,
+      "name": "Benton County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.484467,
+        "lat": 46.266521
+      }
+    },
+    {
+      "id": 5787076,
+      "name": "Bethel",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.631248,
+        "lat": 47.49398
+      }
+    },
+    {
+      "id": 5787215,
+      "name": "Big Lake",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.241272,
+        "lat": 48.402882
+      }
+    },
+    {
+      "id": 5787312,
+      "name": "Bingville",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.629959,
+        "lat": 48.384899
+      }
+    },
+    {
+      "id": 5787316,
+      "name": "Birch Bay",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.744621,
+        "lat": 48.917889
+      }
+    },
+    {
+      "id": 5787423,
+      "name": "Black Diamond",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.003166,
+        "lat": 47.308708
+      }
+    },
+    {
+      "id": 5787464,
+      "name": "Blackrock (historical)",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.997818,
+        "lat": 46.51152
+      }
+    },
+    {
+      "id": 5787475,
+      "name": "Blaine",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.747124,
+        "lat": 48.993721
+      }
+    },
+    {
+      "id": 5787776,
+      "name": "Bonney Lake",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.186508,
+        "lat": 47.177052
+      }
+    },
+    {
+      "id": 5787829,
+      "name": "Bothell",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.205399,
+        "lat": 47.762321
+      }
+    },
+    {
+      "id": 5787893,
+      "name": "Boulevard Park",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.315117,
+        "lat": 47.489269
+      }
+    },
+    {
+      "id": 5787895,
+      "name": "Boundary",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.605423,
+        "lat": 48.998459
+      }
+    },
+    {
+      "id": 5788054,
+      "name": "Bremerton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.632637,
+        "lat": 47.567322
+      }
+    },
+    {
+      "id": 5788077,
+      "name": "Brewster",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.780617,
+        "lat": 48.095982
+      }
+    },
+    {
+      "id": 5788111,
+      "name": "Bridgeport",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.671158,
+        "lat": 48.008202
+      }
+    },
+    {
+      "id": 5788125,
+      "name": "Brier",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.274292,
+        "lat": 47.784538
+      }
+    },
+    {
+      "id": 5788290,
+      "name": "Brush Prairie",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.546494,
+        "lat": 45.732891
+      }
+    },
+    {
+      "id": 5788298,
+      "name": "Bryant",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.157921,
+        "lat": 48.238991
+      }
+    },
+    {
+      "id": 7260966,
+      "name": "Bryn Mawr-Skyway",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.240921,
+        "lat": 47.494301
+      }
+    },
+    {
+      "id": 5788409,
+      "name": "Buckley",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.026779,
+        "lat": 47.163158
+      }
+    },
+    {
+      "id": 5788497,
+      "name": "Burbank",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.013062,
+        "lat": 46.19986
+      }
+    },
+    {
+      "id": 5788516,
+      "name": "Burien",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.346786,
+        "lat": 47.470379
+      }
+    },
+    {
+      "id": 5788531,
+      "name": "Burley",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.630966,
+        "lat": 47.41787
+      }
+    },
+    {
+      "id": 5788539,
+      "name": "Burlington",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.325439,
+        "lat": 48.475658
+      }
+    },
+    {
+      "id": 5788617,
+      "name": "Bush",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.879028,
+        "lat": 46.978989
+      }
+    },
+    {
+      "id": 5788816,
+      "name": "Camano",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.528214,
+        "lat": 48.173988
+      }
+    },
+    {
+      "id": 5788822,
+      "name": "Camas",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.399544,
+        "lat": 45.587059
+      }
+    },
+    {
+      "id": 5789048,
+      "name": "Canterwood",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.589302,
+        "lat": 47.375099
+      }
+    },
+    {
+      "id": 5789198,
+      "name": "Carnation",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.914009,
+        "lat": 47.647881
+      }
+    },
+    {
+      "id": 5789244,
+      "name": "Carson",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.819237,
+        "lat": 45.725391
+      }
+    },
+    {
+      "id": 7714065,
+      "name": "Cascade Kamloops Trout Farm Mobile Home Park",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.610443,
+        "lat": 48.250778
+      }
+    },
+    {
+      "id": 5789324,
+      "name": "Cascade Valley",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.328079,
+        "lat": 47.13459
+      }
+    },
+    {
+      "id": 5789342,
+      "name": "Cashmere",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.469803,
+        "lat": 47.52235
+      }
+    },
+    {
+      "id": 5789381,
+      "name": "Castle Rock",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.907608,
+        "lat": 46.275108
+      }
+    },
+    {
+      "id": 5789425,
+      "name": "Cathcart",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.099289,
+        "lat": 47.847881
+      }
+    },
+    {
+      "id": 5789448,
+      "name": "Cathlamet",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.383179,
+        "lat": 46.203171
+      }
+    },
+    {
+      "id": 5789668,
+      "name": "Central Park",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.69239,
+        "lat": 46.973431
+      }
+    },
+    {
+      "id": 5789683,
+      "name": "Centralia",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.9543,
+        "lat": 46.716209
+      }
+    },
+    {
+      "id": 5789817,
+      "name": "Chehalis",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.96402,
+        "lat": 46.662048
+      }
+    },
+    {
+      "id": 5789826,
+      "name": "Chelan",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.016457,
+        "lat": 47.840969
+      }
+    },
+    {
+      "id": 5789829,
+      "name": "Chelan County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.634537,
+        "lat": 47.883179
+      }
+    },
+    {
+      "id": 5789856,
+      "name": "Cheney",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.57576,
+        "lat": 47.487389
+      }
+    },
+    {
+      "id": 5789872,
+      "name": "Cherokee",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.466438,
+        "lat": 48.45071
+      }
+    },
+    {
+      "id": 5789897,
+      "name": "Chester",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.250481,
+        "lat": 47.61795
+      }
+    },
+    {
+      "id": 5789920,
+      "name": "Chewelah",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.715523,
+        "lat": 48.276291
+      }
+    },
+    {
+      "id": 5789949,
+      "name": "Chico",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.710419,
+        "lat": 47.611481
+      }
+    },
+    {
+      "id": 5789994,
+      "name": "Chimacum",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.768784,
+        "lat": 48.010921
+      }
+    },
+    {
+      "id": 5790164,
+      "name": "Clallam County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.834641,
+        "lat": 48.049809
+      }
+    },
+    {
+      "id": 5790172,
+      "name": "Claquato",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.017349,
+        "lat": 46.64344
+      }
+    },
+    {
+      "id": 5790179,
+      "name": "Clark County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.484543,
+        "lat": 45.799839
+      }
+    },
+    {
+      "id": 5790218,
+      "name": "Clarkston",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.045158,
+        "lat": 46.416271
+      }
+    },
+    {
+      "id": 7260679,
+      "name": "Clarkston Heights-Vineland",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.083,
+        "lat": 46.387421
+      }
+    },
+    {
+      "id": 5790229,
+      "name": "Cle Elum",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.939247,
+        "lat": 47.1954
+      }
+    },
+    {
+      "id": 5790270,
+      "name": "Clear Lake",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.234039,
+        "lat": 48.464272
+      }
+    },
+    {
+      "id": 5790289,
+      "name": "Clearbrook",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.32238,
+        "lat": 48.978729
+      }
+    },
+    {
+      "id": 5790290,
+      "name": "Clearview",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.125961,
+        "lat": 47.83371
+      }
+    },
+    {
+      "id": 5790385,
+      "name": "Clyde Hill",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.217903,
+        "lat": 47.631771
+      }
+    },
+    {
+      "id": 5790554,
+      "name": "Colfax",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.364349,
+        "lat": 46.880169
+      }
+    },
+    {
+      "id": 5790562,
+      "name": "College Place",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.388298,
+        "lat": 46.049301
+      }
+    },
+    {
+      "id": 5790614,
+      "name": "Columbia County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.93438,
+        "lat": 46.299858
+      }
+    },
+    {
+      "id": 5790660,
+      "name": "Colville",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.90554,
+        "lat": 48.54657
+      }
+    },
+    {
+      "id": 5790756,
+      "name": "Connell",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.861107,
+        "lat": 46.663471
+      }
+    },
+    {
+      "id": 5790966,
+      "name": "Cosmopolis",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.773781,
+        "lat": 46.955372
+      }
+    },
+    {
+      "id": 5790971,
+      "name": "Cottage Lake",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.077347,
+        "lat": 47.74427
+      }
+    },
+    {
+      "id": 5791102,
+      "name": "Coulee Dam",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.976128,
+        "lat": 47.965431
+      }
+    },
+    {
+      "id": 5791127,
+      "name": "Country Homes",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.400253,
+        "lat": 47.750751
+      }
+    },
+    {
+      "id": 5791132,
+      "name": "Coupeville",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.686279,
+        "lat": 48.219818
+      }
+    },
+    {
+      "id": 5791159,
+      "name": "Covington",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.122162,
+        "lat": 47.358181
+      }
+    },
+    {
+      "id": 5791201,
+      "name": "Cowlitz",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.842621,
+        "lat": 46.458721
+      }
+    },
+    {
+      "id": 5791206,
+      "name": "Cowlitz County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.684547,
+        "lat": 46.199829
+      }
+    },
+    {
+      "id": 5791724,
+      "name": "Dallesport",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.17952,
+        "lat": 45.61734
+      }
+    },
+    {
+      "id": 5791791,
+      "name": "Darrington",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.601509,
+        "lat": 48.25539
+      }
+    },
+    {
+      "id": 5791805,
+      "name": "Davenport",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.149971,
+        "lat": 47.654049
+      }
+    },
+    {
+      "id": 5791896,
+      "name": "Dayton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.972443,
+        "lat": 46.32375
+      }
+    },
+    {
+      "id": 5792143,
+      "name": "Deer Park",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.476891,
+        "lat": 47.954342
+      }
+    },
+    {
+      "id": 5792201,
+      "name": "Delta",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.524887,
+        "lat": 48.980949
+      }
+    },
+    {
+      "id": 5792244,
+      "name": "Des Moines",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.324287,
+        "lat": 47.401772
+      }
+    },
+    {
+      "id": 5792262,
+      "name": "Desert Aire",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.917267,
+        "lat": 46.679298
+      }
+    },
+    {
+      "id": 5792466,
+      "name": "Disautel",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.237259,
+        "lat": 48.360432
+      }
+    },
+    {
+      "id": 5792474,
+      "name": "Dishman",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.275963,
+        "lat": 47.660069
+      }
+    },
+    {
+      "id": 5792869,
+      "name": "DuPont",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.631241,
+        "lat": 47.09676
+      }
+    },
+    {
+      "id": 5792990,
+      "name": "Duvall",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.98568,
+        "lat": 47.742321
+      }
+    },
+    {
+      "id": 7261759,
+      "name": "East Hill-Meridian",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.173691,
+        "lat": 47.410519
+      }
+    },
+    {
+      "id": 5793237,
+      "name": "East Port Orchard",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.624298,
+        "lat": 47.52343
+      }
+    },
+    {
+      "id": 5793242,
+      "name": "East Renton Highlands",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.112343,
+        "lat": 47.484821
+      }
+    },
+    {
+      "id": 5793271,
+      "name": "East Wenatchee",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.293129,
+        "lat": 47.41568
+      }
+    },
+    {
+      "id": 5793272,
+      "name": "East Wenatchee Bench",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.281181,
+        "lat": 47.425678
+      }
+    },
+    {
+      "id": 5793278,
+      "name": "Eastgate",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.145782,
+        "lat": 47.572659
+      }
+    },
+    {
+      "id": 5793294,
+      "name": "Easton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.178978,
+        "lat": 47.237061
+      }
+    },
+    {
+      "id": 5793321,
+      "name": "Eatonville",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.266502,
+        "lat": 46.867329
+      }
+    },
+    {
+      "id": 5793406,
+      "name": "Edgewood",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.293732,
+        "lat": 47.250099
+      }
+    },
+    {
+      "id": 5793427,
+      "name": "Edmonds",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.377357,
+        "lat": 47.81065
+      }
+    },
+    {
+      "id": 5793571,
+      "name": "Elk",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.276604,
+        "lat": 48.016289
+      }
+    },
+    {
+      "id": 5793609,
+      "name": "Elk Plain",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.397621,
+        "lat": 47.053162
+      }
+    },
+    {
+      "id": 5793639,
+      "name": "Ellensburg",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.547852,
+        "lat": 46.99651
+      }
+    },
+    {
+      "id": 5793687,
+      "name": "Elma",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.408768,
+        "lat": 47.003429
+      }
+    },
+    {
+      "id": 5793780,
+      "name": "Enetai",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.598747,
+        "lat": 47.58482
+      }
+    },
+    {
+      "id": 5793817,
+      "name": "Entiat",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.208412,
+        "lat": 47.675961
+      }
+    },
+    {
+      "id": 5793822,
+      "name": "Enumclaw",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.991501,
+        "lat": 47.204269
+      }
+    },
+    {
+      "id": 5793832,
+      "name": "Ephrata",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.55365,
+        "lat": 47.317638
+      }
+    },
+    {
+      "id": 7261137,
+      "name": "Erlands Point-Kitsap Lake",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.702248,
+        "lat": 47.597191
+      }
+    },
+    {
+      "id": 5793876,
+      "name": "Esperance",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.355408,
+        "lat": 47.78899
+      }
+    },
+    {
+      "id": 5793933,
+      "name": "Everett",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.20208,
+        "lat": 47.978981
+      }
+    },
+    {
+      "id": 5794011,
+      "name": "Everson",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.342659,
+        "lat": 48.92012
+      }
+    },
+    {
+      "id": 7261152,
+      "name": "Fairchild Air Force Base",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.648262,
+        "lat": 47.61879
+      }
+    },
+    {
+      "id": 5794097,
+      "name": "Fairwood",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.157341,
+        "lat": 47.448429
+      }
+    },
+    {
+      "id": 5794098,
+      "name": "Fairwood",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.417442,
+        "lat": 47.766842
+      }
+    },
+    {
+      "id": 5794114,
+      "name": "Fall City",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.888733,
+        "lat": 47.567322
+      }
+    },
+    {
+      "id": 5794208,
+      "name": "Farron",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.521446,
+        "lat": 46.404572
+      }
+    },
+    {
+      "id": 5794245,
+      "name": "Federal Way",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.312622,
+        "lat": 47.322319
+      }
+    },
+    {
+      "id": 5794242,
+      "name": "Felida",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.707321,
+        "lat": 45.70956
+      }
+    },
+    {
+      "id": 5794273,
+      "name": "Fern Prairie",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.398697,
+        "lat": 45.636509
+      }
+    },
+    {
+      "id": 5794276,
+      "name": "Ferndale",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.591011,
+        "lat": 48.8465
+      }
+    },
+    {
+      "id": 5794328,
+      "name": "Fife",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.357071,
+        "lat": 47.239269
+      }
+    },
+    {
+      "id": 5794330,
+      "name": "Fife Heights",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.34568,
+        "lat": 47.258991
+      }
+    },
+    {
+      "id": 5794369,
+      "name": "Finley",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.033897,
+        "lat": 46.154018
+      }
+    },
+    {
+      "id": 5794416,
+      "name": "Fircrest",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.515961,
+        "lat": 47.23954
+      }
+    },
+    {
+      "id": 5794559,
+      "name": "Five Corners",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.575104,
+        "lat": 45.684559
+      }
+    },
+    {
+      "id": 5794675,
+      "name": "Fobes Hill",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.11985,
+        "lat": 47.94899
+      }
+    },
+    {
+      "id": 5794716,
+      "name": "Fords Prairie",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.989021,
+        "lat": 46.7351
+      }
+    },
+    {
+      "id": 5794761,
+      "name": "Forks",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -124.38549,
+        "lat": 47.950359
+      }
+    },
+    {
+      "id": 5794877,
+      "name": "Four Corners",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.819344,
+        "lat": 48.049259
+      }
+    },
+    {
+      "id": 5794940,
+      "name": "Fox Island",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.629021,
+        "lat": 47.251492
+      }
+    },
+    {
+      "id": 5794976,
+      "name": "Franklin County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.934448,
+        "lat": 46.516529
+      }
+    },
+    {
+      "id": 5795011,
+      "name": "Frederickson",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.358727,
+        "lat": 47.09621
+      }
+    },
+    {
+      "id": 5795013,
+      "name": "Fredonia",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.444054,
+        "lat": 48.44622
+      }
+    },
+    {
+      "id": 5795025,
+      "name": "Freeland",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.525978,
+        "lat": 48.009541
+      }
+    },
+    {
+      "id": 5795104,
+      "name": "Friday Harbor",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.01712,
+        "lat": 48.534271
+      }
+    },
+    {
+      "id": 5795265,
+      "name": "Garfield County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.551018,
+        "lat": 46.449871
+      }
+    },
+    {
+      "id": 5795292,
+      "name": "Garrett",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.402748,
+        "lat": 46.052078
+      }
+    },
+    {
+      "id": 5795348,
+      "name": "Geneva",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.401833,
+        "lat": 48.74567
+      }
+    },
+    {
+      "id": 5795440,
+      "name": "Gig Harbor",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.580132,
+        "lat": 47.329262
+      }
+    },
+    {
+      "id": 5795542,
+      "name": "Gleed",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.613403,
+        "lat": 46.65818
+      }
+    },
+    {
+      "id": 5795678,
+      "name": "Gold Bar",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.69706,
+        "lat": 47.85677
+      }
+    },
+    {
+      "id": 5795741,
+      "name": "Goldendale",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.821732,
+        "lat": 45.820679
+      }
+    },
+    {
+      "id": 5795906,
+      "name": "Graham",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.294281,
+        "lat": 47.052879
+      }
+    },
+    {
+      "id": 5795933,
+      "name": "Grand Mound",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.011253,
+        "lat": 46.78788
+      }
+    },
+    {
+      "id": 5795969,
+      "name": "Grandview",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.901703,
+        "lat": 46.250969
+      }
+    },
+    {
+      "id": 5795972,
+      "name": "Granger",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.187271,
+        "lat": 46.342072
+      }
+    },
+    {
+      "id": 5795988,
+      "name": "Granite Falls",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.213692,
+        "lat": 47.890129
+      }
+    },
+    {
+      "id": 5795991,
+      "name": "Granite Falls",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.968742,
+        "lat": 48.083988
+      }
+    },
+    {
+      "id": 5796034,
+      "name": "Grant County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.484482,
+        "lat": 47.14986
+      }
+    },
+    {
+      "id": 5796126,
+      "name": "Grays Harbor County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.83461,
+        "lat": 47.083149
+      }
+    },
+    {
+      "id": 5796685,
+      "name": "Hansville",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.554314,
+        "lat": 47.918701
+      }
+    },
+    {
+      "id": 5796700,
+      "name": "Harbert",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.24218,
+        "lat": 46.087921
+      }
+    },
+    {
+      "id": 5796977,
+      "name": "Hazard",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.518837,
+        "lat": 47.87767
+      }
+    },
+    {
+      "id": 5796984,
+      "name": "Hazel Dell",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.66288,
+        "lat": 45.671509
+      }
+    },
+    {
+      "id": 7714362,
+      "name": "Hidden Haven Mobile Home Park",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.139458,
+        "lat": 47.245621
+      }
+    },
+    {
+      "id": 5797300,
+      "name": "Highland",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.114182,
+        "lat": 46.131519
+      }
+    },
+    {
+      "id": 5797430,
+      "name": "Hobart",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.972893,
+        "lat": 47.421768
+      }
+    },
+    {
+      "id": 5797435,
+      "name": "Hockinson",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.487038,
+        "lat": 45.737888
+      }
+    },
+    {
+      "id": 5797582,
+      "name": "Home",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.763748,
+        "lat": 47.274818
+      }
+    },
+    {
+      "id": 5797693,
+      "name": "Hoquiam",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.889328,
+        "lat": 46.980919
+      }
+    },
+    {
+      "id": 5798318,
+      "name": "Indianola",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.525688,
+        "lat": 47.74704
+      }
+    },
+    {
+      "id": 7261476,
+      "name": "Inglewood-Finn Hill",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.231667,
+        "lat": 47.72049
+      }
+    },
+    {
+      "id": 5798453,
+      "name": "Island County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.584602,
+        "lat": 48.133148
+      }
+    },
+    {
+      "id": 5798487,
+      "name": "Issaquah",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.032623,
+        "lat": 47.530102
+      }
+    },
+    {
+      "id": 5798663,
+      "name": "Jefferson County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.08461,
+        "lat": 47.616482
+      }
+    },
+    {
+      "id": 7261292,
+      "name": "Joint Base Lewis McChord",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.576942,
+        "lat": 47.107868
+      }
+    },
+    {
+      "id": 5799410,
+      "name": "Kalama",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.844551,
+        "lat": 46.00845
+      }
+    },
+    {
+      "id": 5799571,
+      "name": "Kelso",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.90844,
+        "lat": 46.146778
+      }
+    },
+    {
+      "id": 5799587,
+      "name": "Kenmore",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.244011,
+        "lat": 47.75732
+      }
+    },
+    {
+      "id": 5799610,
+      "name": "Kennewick",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.13723,
+        "lat": 46.21125
+      }
+    },
+    {
+      "id": 5799625,
+      "name": "Kent",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.23484,
+        "lat": 47.380932
+      }
+    },
+    {
+      "id": 5799687,
+      "name": "Kettle Falls",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.055817,
+        "lat": 48.610741
+      }
+    },
+    {
+      "id": 5799692,
+      "name": "Key Center",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.745407,
+        "lat": 47.340649
+      }
+    },
+    {
+      "id": 5799783,
+      "name": "King County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.817886,
+        "lat": 47.466492
+      }
+    },
+    {
+      "id": 5799801,
+      "name": "King Hill",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.274902,
+        "lat": 48.038151
+      }
+    },
+    {
+      "id": 5799819,
+      "name": "Kingsgate",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.179573,
+        "lat": 47.727039
+      }
+    },
+    {
+      "id": 5799815,
+      "name": "Kingston",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.498192,
+        "lat": 47.79871
+      }
+    },
+    {
+      "id": 5799841,
+      "name": "Kirkland",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.20874,
+        "lat": 47.681492
+      }
+    },
+    {
+      "id": 5799853,
+      "name": "Kitsap County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.667923,
+        "lat": 47.616482
+      }
+    },
+    {
+      "id": 5799869,
+      "name": "Kittitas",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.417007,
+        "lat": 46.983181
+      }
+    },
+    {
+      "id": 5799889,
+      "name": "Kittitas County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.684517,
+        "lat": 47.116508
+      }
+    },
+    {
+      "id": 5799909,
+      "name": "Klickitat County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.767838,
+        "lat": 45.866508
+      }
+    },
+    {
+      "id": 5800069,
+      "name": "La Center",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.67038,
+        "lat": 45.862339
+      }
+    },
+    {
+      "id": 5800112,
+      "name": "Lacey",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.823189,
+        "lat": 47.03426
+      }
+    },
+    {
+      "id": 5800190,
+      "name": "Lairds",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.087387,
+        "lat": 46.91378
+      }
+    },
+    {
+      "id": 5800227,
+      "name": "Lake Forest Park",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.28096,
+        "lat": 47.75676
+      }
+    },
+    {
+      "id": 7261592,
+      "name": "Lake Marcel-Stillwater",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.915131,
+        "lat": 47.692631
+      }
+    },
+    {
+      "id": 7261595,
+      "name": "Lake Morton-Berrydale",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.102859,
+        "lat": 47.332512
+      }
+    },
+    {
+      "id": 5800314,
+      "name": "Lake Shore",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.690933,
+        "lat": 45.69067
+      }
+    },
+    {
+      "id": 5800317,
+      "name": "Lake Stevens",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.063744,
+        "lat": 48.015099
+      }
+    },
+    {
+      "id": 7261608,
+      "name": "Lakeland North",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.276947,
+        "lat": 47.333431
+      }
+    },
+    {
+      "id": 7261609,
+      "name": "Lakeland South",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.283257,
+        "lat": 47.278431
+      }
+    },
+    {
+      "id": 5800420,
+      "name": "Lakewood",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.518463,
+        "lat": 47.171761
+      }
+    },
+    {
+      "id": 5800475,
+      "name": "Langley",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.406258,
+        "lat": 48.040089
+      }
+    },
+    {
+      "id": 5555235,
+      "name": "Lea Hill",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.181511,
+        "lat": 47.32621
+      }
+    },
+    {
+      "id": 5800683,
+      "name": "Leavenworth",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.661484,
+        "lat": 47.59623
+      }
+    },
+    {
+      "id": 5800813,
+      "name": "Lewis County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.401222,
+        "lat": 46.58316
+      }
+    },
+    {
+      "id": 5800840,
+      "name": "Lewisville",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.523148,
+        "lat": 45.809841
+      }
+    },
+    {
+      "id": 5800870,
+      "name": "Liberty Lake",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.11821,
+        "lat": 47.675911
+      }
+    },
+    {
+      "id": 5801412,
+      "name": "Lochsloy",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.032082,
+        "lat": 48.051491
+      }
+    },
+    {
+      "id": 5801441,
+      "name": "Lofall",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.658211,
+        "lat": 47.812038
+      }
+    },
+    {
+      "id": 7714098,
+      "name": "Loganberry Mobile Home Park",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.256668,
+        "lat": 47.908211
+      }
+    },
+    {
+      "id": 5801520,
+      "name": "Long Beach",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -124.054321,
+        "lat": 46.352322
+      }
+    },
+    {
+      "id": 5801595,
+      "name": "Longbranch",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.756798,
+        "lat": 47.208981
+      }
+    },
+    {
+      "id": 5801617,
+      "name": "Longview",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.938171,
+        "lat": 46.138168
+      }
+    },
+    {
+      "id": 5801621,
+      "name": "Longview Heights",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.957062,
+        "lat": 46.180389
+      }
+    },
+    {
+      "id": 5802035,
+      "name": "Lynden",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.45211,
+        "lat": 48.946499
+      }
+    },
+    {
+      "id": 5802049,
+      "name": "Lynnwood",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.315132,
+        "lat": 47.82093
+      }
+    },
+    {
+      "id": 5802087,
+      "name": "Mabton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.996712,
+        "lat": 46.214851
+      }
+    },
+    {
+      "id": 5802098,
+      "name": "Machias",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.045959,
+        "lat": 47.981491
+      }
+    },
+    {
+      "id": 5802209,
+      "name": "Malaga",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.20118,
+        "lat": 47.372349
+      }
+    },
+    {
+      "id": 5802236,
+      "name": "Maltby",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.113182,
+        "lat": 47.805099
+      }
+    },
+    {
+      "id": 5802247,
+      "name": "Manchester",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.544861,
+        "lat": 47.555931
+      }
+    },
+    {
+      "id": 5802291,
+      "name": "Manson",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.158409,
+        "lat": 47.884861
+      }
+    },
+    {
+      "id": 7261222,
+      "name": "Maple Heights-Lake Desire",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.097359,
+        "lat": 47.44413
+      }
+    },
+    {
+      "id": 5802340,
+      "name": "Maple Valley",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.04641,
+        "lat": 47.392719
+      }
+    },
+    {
+      "id": 5802349,
+      "name": "Maplewood",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.557068,
+        "lat": 47.40176
+      }
+    },
+    {
+      "id": 5802418,
+      "name": "Marietta",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.580452,
+        "lat": 48.787048
+      }
+    },
+    {
+      "id": 7261228,
+      "name": "Marietta-Alderwood",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.553688,
+        "lat": 48.78965
+      }
+    },
+    {
+      "id": 5802493,
+      "name": "Martha Lake",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.239304,
+        "lat": 47.850929
+      }
+    },
+    {
+      "id": 5802570,
+      "name": "Marysville",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.177078,
+        "lat": 48.051762
+      }
+    },
+    {
+      "id": 5802584,
+      "name": "Mason County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.184601,
+        "lat": 47.349812
+      }
+    },
+    {
+      "id": 5802636,
+      "name": "Mattawa",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.902817,
+        "lat": 46.737911
+      }
+    },
+    {
+      "id": 5802694,
+      "name": "Mazama",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.403976,
+        "lat": 48.592091
+      }
+    },
+    {
+      "id": 7261245,
+      "name": "McChord Air Force Base",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.49157,
+        "lat": 47.133968
+      }
+    },
+    {
+      "id": 5802758,
+      "name": "McCleary",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.265427,
+        "lat": 47.05315
+      }
+    },
+    {
+      "id": 5802950,
+      "name": "McMillin",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.236511,
+        "lat": 47.13982
+      }
+    },
+    {
+      "id": 5802984,
+      "name": "Mead",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.354942,
+        "lat": 47.767391
+      }
+    },
+    {
+      "id": 5803025,
+      "name": "Meadow Glade",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.560379,
+        "lat": 45.75845
+      }
+    },
+    {
+      "id": 5803055,
+      "name": "Meadowdale",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.333473,
+        "lat": 47.852871
+      }
+    },
+    {
+      "id": 5803066,
+      "name": "Medical Lake",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.682159,
+        "lat": 47.572941
+      }
+    },
+    {
+      "id": 5803092,
+      "name": "Medina",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.227623,
+        "lat": 47.62093
+      }
+    },
+    {
+      "id": 5803139,
+      "name": "Mercer Island",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.222069,
+        "lat": 47.570648
+      }
+    },
+    {
+      "id": 5803357,
+      "name": "Midland",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.404839,
+        "lat": 47.167042
+      }
+    },
+    {
+      "id": 5803457,
+      "name": "Mill Creek",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.2043,
+        "lat": 47.8601
+      }
+    },
+    {
+      "id": 5803482,
+      "name": "Mill Plain",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.49398,
+        "lat": 45.642899
+      }
+    },
+    {
+      "id": 5803545,
+      "name": "Millwood",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.282707,
+        "lat": 47.681278
+      }
+    },
+    {
+      "id": 5803556,
+      "name": "Milton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.312897,
+        "lat": 47.248161
+      }
+    },
+    {
+      "id": 5803574,
+      "name": "Mineral",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.180939,
+        "lat": 46.717049
+      }
+    },
+    {
+      "id": 5803622,
+      "name": "Minnehaha",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.648712,
+        "lat": 45.659012
+      }
+    },
+    {
+      "id": 5803666,
+      "name": "Mirrormont",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.995667,
+        "lat": 47.462318
+      }
+    },
+    {
+      "id": 5803757,
+      "name": "Molson",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.2006,
+        "lat": 48.981022
+      }
+    },
+    {
+      "id": 5803786,
+      "name": "Monroe",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.970963,
+        "lat": 47.855381
+      }
+    },
+    {
+      "id": 5803818,
+      "name": "Montesano",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.602661,
+        "lat": 46.981209
+      }
+    },
+    {
+      "id": 5803964,
+      "name": "Morton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.275101,
+        "lat": 46.558441
+      }
+    },
+    {
+      "id": 5803990,
+      "name": "Moses Lake",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.278084,
+        "lat": 47.130138
+      }
+    },
+    {
+      "id": 7261921,
+      "name": "Moses Lake North",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.317192,
+        "lat": 47.194328
+      }
+    },
+    {
+      "id": 5804127,
+      "name": "Mount Vernon",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.334053,
+        "lat": 48.421219
+      }
+    },
+    {
+      "id": 5804135,
+      "name": "Mount Vista",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.632881,
+        "lat": 45.73428
+      }
+    },
+    {
+      "id": 5804191,
+      "name": "Mountlake Terrace",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.308739,
+        "lat": 47.788151
+      }
+    },
+    {
+      "id": 5804306,
+      "name": "Mukilteo",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.304581,
+        "lat": 47.944538
+      }
+    },
+    {
+      "id": 5804467,
+      "name": "Napavine",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.90818,
+        "lat": 46.574551
+      }
+    },
+    {
+      "id": 5804540,
+      "name": "Navy Yard City",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.664581,
+        "lat": 47.553429
+      }
+    },
+    {
+      "id": 5804676,
+      "name": "Newcastle",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.155678,
+        "lat": 47.53899
+      }
+    },
+    {
+      "id": 5804693,
+      "name": "Newport",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.180679,
+        "lat": 47.571209
+      }
+    },
+    {
+      "id": 5804694,
+      "name": "Newport",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.043259,
+        "lat": 48.17963
+      }
+    },
+    {
+      "id": 5804715,
+      "name": "Newton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -124.05545,
+        "lat": 47.0812
+      }
+    },
+    {
+      "id": 5804860,
+      "name": "Nooksack",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.321548,
+        "lat": 48.92762
+      }
+    },
+    {
+      "id": 5804885,
+      "name": "Normandy Park",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.340683,
+        "lat": 47.436211
+      }
+    },
+    {
+      "id": 5804915,
+      "name": "North Bend",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.786781,
+        "lat": 47.495659
+      }
+    },
+    {
+      "id": 5804953,
+      "name": "North Creek",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.176239,
+        "lat": 47.819538
+      }
+    },
+    {
+      "id": 5805240,
+      "name": "North Pine",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.364906,
+        "lat": 47.281841
+      }
+    },
+    {
+      "id": 5805248,
+      "name": "North Puyallup",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.282341,
+        "lat": 47.206772
+      }
+    },
+    {
+      "id": 5805317,
+      "name": "North Yelm",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.602898,
+        "lat": 46.96315
+      }
+    },
+    {
+      "id": 5805441,
+      "name": "Oak Harbor",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.643219,
+        "lat": 48.293159
+      }
+    },
+    {
+      "id": 5805503,
+      "name": "Ocean Park",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -124.050163,
+        "lat": 46.491489
+      }
+    },
+    {
+      "id": 5805505,
+      "name": "Ocean Shores",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -124.156288,
+        "lat": 46.973701
+      }
+    },
+    {
+      "id": 5805550,
+      "name": "Okanogan",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.583389,
+        "lat": 48.361259
+      }
+    },
+    {
+      "id": 5805553,
+      "name": "Okanogan County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.734512,
+        "lat": 48.54987
+      }
+    },
+    {
+      "id": 5805687,
+      "name": "Olympia",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.900703,
+        "lat": 47.037868
+      }
+    },
+    {
+      "id": 5805734,
+      "name": "Omak",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.52755,
+        "lat": 48.410992
+      }
+    },
+    {
+      "id": 5805782,
+      "name": "Opportunity",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.239906,
+        "lat": 47.649948
+      }
+    },
+    {
+      "id": 5805815,
+      "name": "Orchards",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.560928,
+        "lat": 45.666512
+      }
+    },
+    {
+      "id": 5805838,
+      "name": "Oroville",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.435623,
+        "lat": 48.939049
+      }
+    },
+    {
+      "id": 5805849,
+      "name": "Orting",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.204277,
+        "lat": 47.097881
+      }
+    },
+    {
+      "id": 5805879,
+      "name": "Othello",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.175293,
+        "lat": 46.82597
+      }
+    },
+    {
+      "id": 7262053,
+      "name": "Otis Orchards-East Farms",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.07975,
+        "lat": 47.709881
+      }
+    },
+    {
+      "id": 5806017,
+      "name": "Pacific",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.250122,
+        "lat": 47.264549
+      }
+    },
+    {
+      "id": 7713975,
+      "name": "Palisades Mobile Home Estates",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.179482,
+        "lat": 47.284679
+      }
+    },
+    {
+      "id": 5806253,
+      "name": "Parkland",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.434013,
+        "lat": 47.15538
+      }
+    },
+    {
+      "id": 5806274,
+      "name": "Parkwood",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.610138,
+        "lat": 47.53315
+      }
+    },
+    {
+      "id": 5806298,
+      "name": "Pasco",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.100571,
+        "lat": 46.239578
+      }
+    },
+    {
+      "id": 5806341,
+      "name": "Patit",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.859367,
+        "lat": 46.335701
+      }
+    },
+    {
+      "id": 7176028,
+      "name": "Peaceful Valley",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.147339,
+        "lat": 48.938148
+      }
+    },
+    {
+      "id": 5806508,
+      "name": "Penn Cove Park",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.673218,
+        "lat": 48.239819
+      }
+    },
+    {
+      "id": 5806769,
+      "name": "Pierce County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.117889,
+        "lat": 47.033161
+      }
+    },
+    {
+      "id": 5807107,
+      "name": "Point Roberts",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.077972,
+        "lat": 48.985378
+      }
+    },
+    {
+      "id": 5807169,
+      "name": "Pomeroy",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.602692,
+        "lat": 46.474869
+      }
+    },
+    {
+      "id": 5807212,
+      "name": "Port Angeles",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.43074,
+        "lat": 48.118149
+      }
+    },
+    {
+      "id": 7262139,
+      "name": "Port Angeles East",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.371719,
+        "lat": 48.10667
+      }
+    },
+    {
+      "id": 7262141,
+      "name": "Port Hadlock-Irondale",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.785294,
+        "lat": 48.03273
+      }
+    },
+    {
+      "id": 5807228,
+      "name": "Port Ludlow",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.683487,
+        "lat": 47.925369
+      }
+    },
+    {
+      "id": 5807236,
+      "name": "Port Orchard",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.636253,
+        "lat": 47.540371
+      }
+    },
+    {
+      "id": 5807239,
+      "name": "Port Townsend",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.760452,
+        "lat": 48.117039
+      }
+    },
+    {
+      "id": 5807337,
+      "name": "Poulsbo",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.646538,
+        "lat": 47.735931
+      }
+    },
+    {
+      "id": 5807367,
+      "name": "Prairie Ridge",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.148727,
+        "lat": 47.1376
+      }
+    },
+    {
+      "id": 7262153,
+      "name": "Priest Point",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.247787,
+        "lat": 48.03109
+      }
+    },
+    {
+      "id": 5807487,
+      "name": "Prosser",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.768921,
+        "lat": 46.206799
+      }
+    },
+    {
+      "id": 5807540,
+      "name": "Pullman",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.179619,
+        "lat": 46.73127
+      }
+    },
+    {
+      "id": 5807558,
+      "name": "Purdy",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.625412,
+        "lat": 47.388988
+      }
+    },
+    {
+      "id": 5807575,
+      "name": "Puyallup",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.2929,
+        "lat": 47.185379
+      }
+    },
+    {
+      "id": 5807713,
+      "name": "Quincy",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.852547,
+        "lat": 47.234299
+      }
+    },
+    {
+      "id": 5807732,
+      "name": "R Corner",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.274902,
+        "lat": 48.093979
+      }
+    },
+    {
+      "id": 5807825,
+      "name": "Rainier",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.688461,
+        "lat": 46.888161
+      }
+    },
+    {
+      "id": 5807972,
+      "name": "Ravensdale",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.983727,
+        "lat": 47.352322
+      }
+    },
+    {
+      "id": 5807986,
+      "name": "Raymond",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.732941,
+        "lat": 46.686489
+      }
+    },
+    {
+      "id": 5808079,
+      "name": "Redmond",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.121513,
+        "lat": 47.673988
+      }
+    },
+    {
+      "id": 5808140,
+      "name": "Regal",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.46701,
+        "lat": 46.990131
+      }
+    },
+    {
+      "id": 5808189,
+      "name": "Renton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.217072,
+        "lat": 47.48288
+      }
+    },
+    {
+      "id": 5808201,
+      "name": "Republic",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.737808,
+        "lat": 48.64822
+      }
+    },
+    {
+      "id": 5808276,
+      "name": "Richland",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.284462,
+        "lat": 46.28569
+      }
+    },
+    {
+      "id": 5808311,
+      "name": "Ridgefield",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.742599,
+        "lat": 45.815121
+      }
+    },
+    {
+      "id": 5808453,
+      "name": "Ritzville",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.379982,
+        "lat": 47.127369
+      }
+    },
+    {
+      "id": 5808402,
+      "name": "Riverbend",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.750389,
+        "lat": 47.466492
+      }
+    },
+    {
+      "id": 5808432,
+      "name": "Riverton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.294571,
+        "lat": 47.484268
+      }
+    },
+    {
+      "id": 5808524,
+      "name": "Rochester",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.096252,
+        "lat": 46.82177
+      }
+    },
+    {
+      "id": 5808691,
+      "name": "Rocky Point",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.66848,
+        "lat": 47.592869
+      }
+    },
+    {
+      "id": 5808834,
+      "name": "Rosedale",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.652351,
+        "lat": 47.33149
+      }
+    },
+    {
+      "id": 5808939,
+      "name": "Royal City",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.630592,
+        "lat": 46.90097
+      }
+    },
+    {
+      "id": 5809016,
+      "name": "Russell",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.346077,
+        "lat": 46.133751
+      }
+    },
+    {
+      "id": 5809333,
+      "name": "Salmon Creek",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.648987,
+        "lat": 45.71067
+      }
+    },
+    {
+      "id": 5809402,
+      "name": "Sammamish",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.080399,
+        "lat": 47.641769
+      }
+    },
+    {
+      "id": 5809805,
+      "name": "SeaTac",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.292168,
+        "lat": 47.44846
+      }
+    },
+    {
+      "id": 5809806,
+      "name": "Seabeck",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.828491,
+        "lat": 47.639542
+      }
+    },
+    {
+      "id": 5809844,
+      "name": "Seattle",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.332069,
+        "lat": 47.606209
+      }
+    },
+    {
+      "id": 5809902,
+      "name": "Sedro-Woolley",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.236107,
+        "lat": 48.503891
+      }
+    },
+    {
+      "id": 5809928,
+      "name": "Selah",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.530067,
+        "lat": 46.654018
+      }
+    },
+    {
+      "id": 5809983,
+      "name": "Sequim",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.101837,
+        "lat": 48.07954
+      }
+    },
+    {
+      "id": 5810176,
+      "name": "Shelton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.100708,
+        "lat": 47.215092
+      }
+    },
+    {
+      "id": 5810301,
+      "name": "Shoreline",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.341522,
+        "lat": 47.75565
+      }
+    },
+    {
+      "id": 7176035,
+      "name": "Silver Firs",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.155098,
+        "lat": 47.86602
+      }
+    },
+    {
+      "id": 5810490,
+      "name": "Silverdale",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.69487,
+        "lat": 47.644539
+      }
+    },
+    {
+      "id": 5810559,
+      "name": "Sisco Heights",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.097076,
+        "lat": 48.115379
+      }
+    },
+    {
+      "id": 5810608,
+      "name": "Skagit County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.784576,
+        "lat": 48.466499
+      }
+    },
+    {
+      "id": 5810915,
+      "name": "Smokey Point",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.18264,
+        "lat": 48.152321
+      }
+    },
+    {
+      "id": 5810988,
+      "name": "Snohomish",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.098183,
+        "lat": 47.91288
+      }
+    },
+    {
+      "id": 5810982,
+      "name": "Snohomish County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.717903,
+        "lat": 48.049831
+      }
+    },
+    {
+      "id": 5810995,
+      "name": "Snoqualmie",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.825394,
+        "lat": 47.528709
+      }
+    },
+    {
+      "id": 5811089,
+      "name": "Soap Lake",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.490593,
+        "lat": 47.389309
+      }
+    },
+    {
+      "id": 5811211,
+      "name": "South Bend",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -123.804611,
+        "lat": 46.663151
+      }
+    },
+    {
+      "id": 5811225,
+      "name": "South Broadway",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.516731,
+        "lat": 46.566238
+      }
+    },
+    {
+      "id": 5811456,
+      "name": "South Hill",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.270119,
+        "lat": 47.141209
+      }
+    },
+    {
+      "id": 7261826,
+      "name": "South Wenatchee",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.289581,
+        "lat": 47.390121
+      }
+    },
+    {
+      "id": 5811567,
+      "name": "Southworth",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.501801,
+        "lat": 47.512039
+      }
+    },
+    {
+      "id": 5811581,
+      "name": "Spanaway",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.43457,
+        "lat": 47.103989
+      }
+    },
+    {
+      "id": 5811696,
+      "name": "Spokane",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.429077,
+        "lat": 47.65966
+      }
+    },
+    {
+      "id": 5811704,
+      "name": "Spokane County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.367706,
+        "lat": 47.616562
+      }
+    },
+    {
+      "id": 5811729,
+      "name": "Spokane Valley",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.239372,
+        "lat": 47.673229
+      }
+    },
+    {
+      "id": 5811995,
+      "name": "Stanwood",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.370712,
+        "lat": 48.241211
+      }
+    },
+    {
+      "id": 5812017,
+      "name": "Startup",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.740402,
+        "lat": 47.867882
+      }
+    },
+    {
+      "id": 5812092,
+      "name": "Steilacoom",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.602631,
+        "lat": 47.169819
+      }
+    },
+    {
+      "id": 5812148,
+      "name": "Stevens County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.834419,
+        "lat": 48.433231
+      }
+    },
+    {
+      "id": 5812177,
+      "name": "Stevenson",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.884521,
+        "lat": 45.695671
+      }
+    },
+    {
+      "id": 5812434,
+      "name": "Sudden Valley",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.34655,
+        "lat": 48.722889
+      }
+    },
+    {
+      "id": 5812483,
+      "name": "Sultan",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.816513,
+        "lat": 47.862598
+      }
+    },
+    {
+      "id": 5812494,
+      "name": "Sumas",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.264877,
+        "lat": 49.000118
+      }
+    },
+    {
+      "id": 5812505,
+      "name": "Summit",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.357071,
+        "lat": 47.16177
+      }
+    },
+    {
+      "id": 5812543,
+      "name": "Sumner",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.240402,
+        "lat": 47.203159
+      }
+    },
+    {
+      "id": 5812604,
+      "name": "Sunnyside",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.008652,
+        "lat": 46.323738
+      }
+    },
+    {
+      "id": 5812626,
+      "name": "Sunnyslope",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.336739,
+        "lat": 47.4729
+      }
+    },
+    {
+      "id": 5812723,
+      "name": "Suquamish",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.552361,
+        "lat": 47.731209
+      }
+    },
+    {
+      "id": 5812944,
+      "name": "Tacoma",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.44429,
+        "lat": 47.25288
+      }
+    },
+    {
+      "id": 7262660,
+      "name": "Tanglewilde-Thompson Place",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.780807,
+        "lat": 47.051159
+      }
+    },
+    {
+      "id": 5813063,
+      "name": "Tanner",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.746223,
+        "lat": 47.47538
+      }
+    },
+    {
+      "id": 5813207,
+      "name": "Tenino",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.852913,
+        "lat": 46.85677
+      }
+    },
+    {
+      "id": 5813249,
+      "name": "Terrace Heights",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.439789,
+        "lat": 46.606239
+      }
+    },
+    {
+      "id": 5813459,
+      "name": "Three Lakes",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.01152,
+        "lat": 47.94482
+      }
+    },
+    {
+      "id": 5813521,
+      "name": "Thurston County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.817909,
+        "lat": 46.916489
+      }
+    },
+    {
+      "id": 5813532,
+      "name": "Tieton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.755348,
+        "lat": 46.702068
+      }
+    },
+    {
+      "id": 5813726,
+      "name": "Tonasket",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.439499,
+        "lat": 48.705151
+      }
+    },
+    {
+      "id": 5813747,
+      "name": "Toppenish",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.30867,
+        "lat": 46.37735
+      }
+    },
+    {
+      "id": 5813814,
+      "name": "Town and Country",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.421608,
+        "lat": 47.72739
+      }
+    },
+    {
+      "id": 5813832,
+      "name": "Tracyton",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.655144,
+        "lat": 47.608978
+      }
+    },
+    {
+      "id": 5813889,
+      "name": "Trentwood",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.210762,
+        "lat": 47.69656
+      }
+    },
+    {
+      "id": 5814043,
+      "name": "Tukwila",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.260963,
+        "lat": 47.473991
+      }
+    },
+    {
+      "id": 5814047,
+      "name": "Tulalip",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.291809,
+        "lat": 48.068432
+      }
+    },
+    {
+      "id": 5814048,
+      "name": "Tulalip Bay",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.310143,
+        "lat": 48.037319
+      }
+    },
+    {
+      "id": 5814095,
+      "name": "Tumwater",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.909309,
+        "lat": 47.00732
+      }
+    },
+    {
+      "id": 5814419,
+      "name": "Union Gap",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.47506,
+        "lat": 46.55735
+      }
+    },
+    {
+      "id": 7262428,
+      "name": "Union Hill-Novelty Hill",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.028328,
+        "lat": 47.678871
+      }
+    },
+    {
+      "id": 5814450,
+      "name": "University Place",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.5504,
+        "lat": 47.235649
+      }
+    },
+    {
+      "id": 5814616,
+      "name": "Vancouver",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.661491,
+        "lat": 45.638729
+      }
+    },
+    {
+      "id": 5814647,
+      "name": "Vashon",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.459846,
+        "lat": 47.447319
+      }
+    },
+    {
+      "id": 5814695,
+      "name": "Venersborg",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.424538,
+        "lat": 45.773731
+      }
+    },
+    {
+      "id": 5814686,
+      "name": "Veradale",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.207382,
+        "lat": 47.649948
+      }
+    },
+    {
+      "id": 5814838,
+      "name": "Wagner",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.936508,
+        "lat": 47.87899
+      }
+    },
+    {
+      "id": 5814871,
+      "name": "Waitsburg",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.15329,
+        "lat": 46.27042
+      }
+    },
+    {
+      "id": 5814916,
+      "name": "Walla Walla",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.343018,
+        "lat": 46.064579
+      }
+    },
+    {
+      "id": 5814921,
+      "name": "Walla Walla County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.484421,
+        "lat": 46.283192
+      }
+    },
+    {
+      "id": 7262470,
+      "name": "Walla Walla East",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -118.304031,
+        "lat": 46.051842
+      }
+    },
+    {
+      "id": 5814941,
+      "name": "Waller",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.369293,
+        "lat": 47.200661
+      }
+    },
+    {
+      "id": 5814950,
+      "name": "Walnut Grove",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.598991,
+        "lat": 45.667889
+      }
+    },
+    {
+      "id": 5814992,
+      "name": "Wapato",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.420341,
+        "lat": 46.447632
+      }
+    },
+    {
+      "id": 5815020,
+      "name": "Warden",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.039726,
+        "lat": 46.96764
+      }
+    },
+    {
+      "id": 5815033,
+      "name": "Warm Beach",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.364601,
+        "lat": 48.17065
+      }
+    },
+    {
+      "id": 5815135,
+      "name": "Washington",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.501472,
+        "lat": 47.500118
+      }
+    },
+    {
+      "id": 5815136,
+      "name": "Washougal",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.353416,
+        "lat": 45.582619
+      }
+    },
+    {
+      "id": 5815184,
+      "name": "Waterville",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.071182,
+        "lat": 47.647079
+      }
+    },
+    {
+      "id": 5815213,
+      "name": "Wauna",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.642632,
+        "lat": 47.37899
+      }
+    },
+    {
+      "id": 5815237,
+      "name": "Weallup Lake",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.306259,
+        "lat": 48.1101
+      }
+    },
+    {
+      "id": 5815342,
+      "name": "Wenatchee",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.310349,
+        "lat": 47.423458
+      }
+    },
+    {
+      "id": 7262495,
+      "name": "West Clarkston-Highland",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.06395,
+        "lat": 46.40287
+      }
+    },
+    {
+      "id": 5815538,
+      "name": "West Lake Sammamish",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.101227,
+        "lat": 47.577599
+      }
+    },
+    {
+      "id": 5815539,
+      "name": "West Lake Stevens",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.101799,
+        "lat": 47.993431
+      }
+    },
+    {
+      "id": 5815544,
+      "name": "West Longview",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.999001,
+        "lat": 46.167889
+      }
+    },
+    {
+      "id": 5815550,
+      "name": "West Pasco",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.182793,
+        "lat": 46.245411
+      }
+    },
+    {
+      "id": 5815599,
+      "name": "West Richland",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -119.361412,
+        "lat": 46.304298
+      }
+    },
+    {
+      "id": 7262515,
+      "name": "West Side Highway",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.917152,
+        "lat": 46.18399
+      }
+    },
+    {
+      "id": 5815605,
+      "name": "West Valley",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.605072,
+        "lat": 46.592072
+      }
+    },
+    {
+      "id": 5815609,
+      "name": "West Wenatchee",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.353409,
+        "lat": 47.443741
+      }
+    },
+    {
+      "id": 5815665,
+      "name": "Westport",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -124.104057,
+        "lat": 46.890091
+      }
+    },
+    {
+      "id": 5815675,
+      "name": "Whatcom County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.784592,
+        "lat": 48.916512
+      }
+    },
+    {
+      "id": 5815759,
+      "name": "White Center",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.354851,
+        "lat": 47.517319
+      }
+    },
+    {
+      "id": 5815842,
+      "name": "White Salmon",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.486458,
+        "lat": 45.727619
+      }
+    },
+    {
+      "id": 5815891,
+      "name": "Whitman County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.48436,
+        "lat": 46.91655
+      }
+    },
+    {
+      "id": 5816011,
+      "name": "Wildcat Lake",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.766823,
+        "lat": 47.604542
+      }
+    },
+    {
+      "id": 5816314,
+      "name": "Winlock",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.937897,
+        "lat": 46.491219
+      }
+    },
+    {
+      "id": 5816413,
+      "name": "Wollochet",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.584023,
+        "lat": 47.268711
+      }
+    },
+    {
+      "id": 5816449,
+      "name": "Woodinville",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.16346,
+        "lat": 47.754269
+      }
+    },
+    {
+      "id": 5816457,
+      "name": "Woodland",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.743988,
+        "lat": 45.90456
+      }
+    },
+    {
+      "id": 5816494,
+      "name": "Woods Creek",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -121.89846,
+        "lat": 47.878712
+      }
+    },
+    {
+      "id": 5816508,
+      "name": "Woodway",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.382912,
+        "lat": 47.796211
+      }
+    },
+    {
+      "id": 5816582,
+      "name": "Yacolt",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.406212,
+        "lat": 45.865952
+      }
+    },
+    {
+      "id": 5816605,
+      "name": "Yakima",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.505898,
+        "lat": 46.60207
+      }
+    },
+    {
+      "id": 5816597,
+      "name": "Yakima County",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.667847,
+        "lat": 46.466511
+      }
+    },
+    {
+      "id": 5816621,
+      "name": "Yardley",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -117.333542,
+        "lat": 47.667122
+      }
+    },
+    {
+      "id": 5816626,
+      "name": "Yarrow Point",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.217346,
+        "lat": 47.64621
+      }
+    },
+    {
+      "id": 5816656,
+      "name": "Yelm",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -122.605957,
+        "lat": 46.942039
+      }
+    },
+    {
+      "id": 5816719,
+      "name": "Zillah",
+      "state": "WA",
+      "country": "US",
+      "coord": {
+        "lon": -120.262001,
+        "lat": 46.402069
+      }
+    }
+  ],
   "WI": [
     {
       "id": 5243517,

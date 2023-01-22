@@ -1,22 +1,57 @@
-let city = document.querySelector('#inputCity');
-let state = document.querySelector('#inputState');
+//Global Variables
 let submit = document.querySelector('#city_search');
+let cities = {}
+let coords = {}
+let weather = document.getElementById('weather');
 
 //Load city JSON
-let cities = {}
-fetch('./data/UScities.json')
-.then(function(response){
-  return response.json();
-})
-.then(function(data) {
-  cities = data;
-});
+function init() {
+  fetch('./data/UScities.json')
+  .then(function(response){
+    return response.json();
+  })
+  .then(function(data) {
+    cities = data;
+    console.log(cities);
+    console.log(cities['WA'][0]['coord']);
+    console.log(cities['WA'].length);
+  });
 
-submit.addEventListener("click", function(event) {
-  event.preventDefault();
-  console.log(city)
-  console.log(state)
-});
+  submit.addEventListener("click", function(event) {
+    event.preventDefault();
+    let city = document.querySelector('#inputCity').value.trim();
+    let state = document.querySelector('#inputState').value.slice(0,2);
+
+    console.log('Serach City: ', city)
+    console.log('Search State: ', state)
+    console.log('Number of cities in', state, cities[state].length);
+
+    searchLocation(city, state, cities);
+  });
+
+  function searchLocation(city, state, cities) {
+    for(let i=0; i < cities[state].length; i++){
+      // console.log(i);
+      if(city == cities[state][i]['name']){
+        coords = cities[state][i]['coord'];
+        console.log(cities[state][i]);
+        console.log(coords);
+        document.getElementById('error').remove();
+        return;
+      }
+    };
+    locationError();
+  };
+};
+
+init();
+
+function locationError(){
+  let error = document.createElement("p");
+  error.setAttribute("id", "error");
+  error.innerText = "The city and state that you entered did not return any results. Please check your spelling and try again.";
+  weather.appendChild(error);
+}
 
 
 function test(){
@@ -30,7 +65,7 @@ function test(){
   })
 };
 
-test();
+// test();
 // console.log(weather);
 
 function displayWeather(weather){
