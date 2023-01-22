@@ -38,7 +38,7 @@
       <div id="mc" class="container-fluid row">
         <div id="city-form" class="col-md-3 col-sm-12 border">
           <h3 class="text-center">City Search</h3>
-          <form>
+          <form method="POST">
             <div class="form-row">
               <div class="form-group">
                 <label for="inputCity">City</label>
@@ -93,8 +93,7 @@
                   <option data-state="TN">TN - Tennessee</option>
                   <option data-state="TX">TX - Texas</option>
                   <option data-state="UT">UT - Utah</option>
-                  <option data-state="VA">VA - Virginia</option>
-                  <option data-state="VI">VI - Virgin Islands</option>     
+                  <option data-state="VA">VA - Virginia</option>    
                   <option data-state="VT">VT - Vermont</option>
                   <option data-state="WA">WA - Washington</option>
                   <option data-state="WI">WI - Wisconsin</option>
@@ -104,7 +103,7 @@
               </div>
             </div>
             <br>
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <button id="city_search" class="btn btn-primary">Submit</button>
           </form>
           <br>
         </div>
