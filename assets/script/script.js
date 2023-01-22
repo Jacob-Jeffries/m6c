@@ -3,6 +3,7 @@ let submit = document.querySelector('#city_search');
 let cities = {}
 let coords = {}
 let weather = document.getElementById('weather');
+let openWeather_key = "f81b385c2879bb45d6dbb69918ce28b7";
 
 //Load city JSON
 function init() {
@@ -28,15 +29,18 @@ function init() {
   });
 
   function searchLocation(city, state, cities) {
+    if(document.getElementById('error')){
+      document.getElementById('error').remove();
+    }
     for(let i=0; i < cities[state].length; i++){
       // console.log(i);
       if(city == cities[state][i]['name']){
         coords = cities[state][i]['coord'];
         console.log(cities[state][i]);
         console.log(coords);
-        if(document.getElementById('error')){
-          document.getElementById('error').remove();
-        }
+        console.log(coords['lat']);
+        currentWeather(coords);
+        forecast(coords);
         return;
       }
     };
@@ -53,30 +57,37 @@ function locationError(){
   weather.appendChild(error);
 }
 
-
-function test(){
-  fetch('./data/forcast.json')
+function currentWeather(coords){
+  let lat = coords['lat'];
+  let lon = coords['lon'];
+  let url = 'https://api.openweathermap.org/data/2.5/weather?lat='+lat+'&lon='+lon+'&appid='+openWeather_key;
+  
+  fetch(url)
   .then(function(response) {
     return response.json();
   })
   .then(function(data) {
-    console.log(data);
-    displayWeather(data);
-  })
+    // console.log(data);
+    displayWeather(data, "Current");
+  });
 };
 
-// test();
-// console.log(weather);
+function forecast(coords){
+  let lat = coords['lat'];
+  let lon = coords['lon'];
+  let url = 'https://api.openweathermap.org/data/2.5/forecast?lat='+lat+'&lon='+lon+'&appid='+openWeather_key;
+  
+  fetch(url)
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(data) {
+    // console.log(data);
+    displayWeather(data, "Forecast");
+  });
+};
 
-function displayWeather(weather){
+function displayWeather(weather, call){
+  console.log(call);
   console.log(weather);
-  console.log(weather.list[0].main.temp);
-  console.log(weather.list[0].main.feels_like);
-  console.log(weather.list[0].main.temp_min);
-  console.log(weather.list[0].main.temp_max);
-  console.log(weather.list[0].main.humidity);
-  console.log(weather.list[0].weather[0].id);
-  console.log(weather.list[0].weather[0].main);
-  console.log(weather.list[0].weather[0].description);
-  console.log(weather.list[0].clouds.all);
 };
