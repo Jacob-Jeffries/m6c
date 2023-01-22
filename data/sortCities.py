@@ -1,7 +1,9 @@
-print("Hellow World!");
-x = 5
-y = "John"
-print(x)
-print(y)
+import json
 
-print("John is " + str(x) + " years old.")
+with open("./data/cityList.json") as data
+
+cityList = json.load(data)
+
+print(cityList.headline())
+print(cityList.headline())
+print(cityList.headline())
