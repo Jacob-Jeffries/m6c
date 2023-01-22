@@ -50,8 +50,7 @@ sorted_cities = {
   'VA':[],
   'WI':[],
   'WV':[],
-  'WY':[],
-  'Z':[]}
+  'WY':[]}
 
 #Golly I forgot I was using python and the pwd is different!
 with open("/mnt/d/bootcamp/lessons/m6c/data/cityList.json") as data:
@@ -65,8 +64,6 @@ for b in sorted_cities:
   for c in us_cities:
     if c['state'] == b:
       sorted_cities[b].append(c)
-    elif c['state'] == '':
-      sorted_cities['Z'].append(c)
 
 for d in sorted_cities:
   print(d, len(sorted_cities[d]))
