@@ -12,9 +12,7 @@ function init() {
   })
   .then(function(data) {
     cities = data;
-    console.log(cities);
-    console.log(cities['WA'][0]['coord']);
-    console.log(cities['WA'].length);
+
   });
 
   submit.addEventListener("click", function(event) {
@@ -36,7 +34,9 @@ function init() {
         coords = cities[state][i]['coord'];
         console.log(cities[state][i]);
         console.log(coords);
-        document.getElementById('error').remove();
+        if(document.getElementById('error')){
+          document.getElementById('error').remove();
+        }
         return;
       }
     };
@@ -49,7 +49,7 @@ init();
 function locationError(){
   let error = document.createElement("p");
   error.setAttribute("id", "error");
-  error.innerText = "The city and state that you entered did not return any results. Please check your spelling and try again.";
+  error.innerText = "The city and state that you entered did not return any results. Please check your spelling and try again. Remember to use proper capitalization.";
   weather.appendChild(error);
 }
 
